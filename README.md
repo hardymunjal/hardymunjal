@@ -24,7 +24,7 @@
 
 ✍ My Recent Blogsite - [The Budding Engineer](https://buddingengineer.com)
 
-## 🤝Get in Touch
+## 🤝Get in Touch...
 
 I am always up for a discussion on softwares, freelancing, business and philosophy. You can follow me or hit me up for a discussion on below handles...
 
@@ -34,7 +34,7 @@ I am always up for a discussion on softwares, freelancing, business and philosop
 [![medium hardikmunjal][4.1]][4]
 [![dev to hardikmunjal][5.1]][5]
 
-## Current Updates
+## Currently...
 
 - 💼 Working as a Data Scientist at Hitachi Vantara
 - ⭐ Learning Golang
