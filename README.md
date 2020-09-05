@@ -22,7 +22,7 @@
 
 🙋‍♂ I am a software developer with passion for solving real world problems and sharing my knowledge with fellow developers ❤ 🤗
 
-My Recent Blogsite - [The Budding Engineer](https://buddingengineer.com)
+✍ My Recent Blogsite - [The Budding Engineer](https://buddingengineer.com)
 
 ## 🤝Get in Touch
 
