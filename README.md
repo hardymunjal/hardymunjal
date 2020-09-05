@@ -2,10 +2,10 @@
 
 [1.1]: https://github.com/hardy8059/hardy8059/blob/master/assets/icons/icons8-linkedin-48.png (linkedin icon with padding)
 [2.1]: https://github.com/hardy8059/hardy8059/blob/master/assets/icons/icons8-github-48.png (github icon with padding)
-[3.1]: https://github.com/hardy8059/hardy8059/blob/master/assets/icons/icons8-contact_new-48.png (contact icon with padding)
+[3.1]: https://github.com/hardy8059/hardy8059/blob/master/assets/icons/contact-48.png (contact icon with padding)
 [4.1]: https://github.com/hardy8059/hardy8059/blob/master/assets/icons/icons8-medium-new-48.png (medium icon with padding)
 [5.1]: https://github.com/hardy8059/hardy8059/blob/master/assets/icons/icons8-dev-48.png (dev icon with padding)
-[6.1]: https://github.com/hardy8059/hardy8059/blob/master/assets/icons/icons8-blog_new-48.png (blog icon with padding)
+[6.1]: https://github.com/hardy8059/hardy8059/blob/master/assets/icons/blog-48.png (blog icon with padding)
 
 <!-- links to my social media accounts -->
 
