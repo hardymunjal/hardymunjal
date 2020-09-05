@@ -16,7 +16,9 @@
 [5]: https://dev.to/hardikmunjal
 [6]: https://buddingengineer.com
 
-![Profile Banner](https://github.com/hardy8059/hardy8059/blob/master/Github_Banner.png?raw=true)
+<p align="center">
+  <img src="https://github.com/hardy8059/hardy8059/blob/master/Github_Banner.png?raw=true">
+</p>
 
 🙋‍♂ I am a software developer with passion for solving real world problems and sharing my knowledge with fellow developers. ❤ 🤗
 My Recent Blogsite - [![blog hardikmunjal][6.1]][6]
